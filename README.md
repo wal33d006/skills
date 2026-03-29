@@ -19,3 +19,4 @@
   | Command | Description |
   |---------|-------------|
   | `/refactor` | Refactor a Flutter project to Clean Architecture with Cubit-driven navigation |
+  | `/learn` | Learn anything by running this skill inside any project, it will convert the project into a codelab/tutorial for you to follow like a newbie |
